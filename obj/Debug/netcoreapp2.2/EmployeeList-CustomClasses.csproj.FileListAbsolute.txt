@@ -1,0 +1,11 @@
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/bin/Debug/netcoreapp2.2/EmployeeList-CustomClasses.deps.json
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/bin/Debug/netcoreapp2.2/EmployeeList-CustomClasses.runtimeconfig.json
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/bin/Debug/netcoreapp2.2/EmployeeList-CustomClasses.runtimeconfig.dev.json
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/bin/Debug/netcoreapp2.2/EmployeeList-CustomClasses.dll
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/bin/Debug/netcoreapp2.2/EmployeeList-CustomClasses.pdb
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/obj/Debug/netcoreapp2.2/EmployeeList-CustomClasses.csprojAssemblyReference.cache
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/obj/Debug/netcoreapp2.2/EmployeeList-CustomClasses.csproj.CoreCompileInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/obj/Debug/netcoreapp2.2/EmployeeList-CustomClasses.AssemblyInfoInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/obj/Debug/netcoreapp2.2/EmployeeList-CustomClasses.AssemblyInfo.cs
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/obj/Debug/netcoreapp2.2/EmployeeList-CustomClasses.dll
+/Users/jdwheeler/workspace/C#/exercises/EmployeeList-CustomClasses/obj/Debug/netcoreapp2.2/EmployeeList-CustomClasses.pdb
